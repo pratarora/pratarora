@@ -48,8 +48,6 @@ I am a passionate and driven bioinformatician with over a decade of experience i
 
 ---
 
-This README provides a concise overview of your programming skills and relevant professional background, making it suitable for your GitHub profile.
-
 <!--
 **pratarora/pratarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
