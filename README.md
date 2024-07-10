@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Prateek Arora, PhD 👋
 
 I am a passionate and driven bioinformatician with over a decade of experience in exploring the secrets of life through data. My work spans single-cell transcriptomics, spatial omics, metabolomics, multi-omics, and more. I thrive on developing innovative solutions to complex biological problems and am dedicated to advancing scientific discovery through robust data analysis and collaboration.
