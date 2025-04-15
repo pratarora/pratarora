@@ -4,7 +4,7 @@ I am a passionate and driven bioinformatician with over a decade of experience i
 
 ## 🚀 About Me
 
-- 🌍 Based in Basel, Switzerland
+- 🌍 Based in Bern, Switzerland
 - 🎓 PhD in Cellular and Molecular Biology from Tata Institute of Fundamental Research
 - 📫 Reach me at [prateek@prateekarora.net](mailto:prateek@prateekarora.net)
 - 🌐 [Personal Website](https://www.prateekarora.net) | [LinkedIn](https://www.linkedin.com/in/pratarora/) | [ORCID](https://orcid.org/0000-0003-0822-9240)
